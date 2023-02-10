@@ -1,0 +1,13 @@
+name = "CoroUtil"
+filename = "coroutil-1.18.1-1.2.44.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c92f1152fb5cf45248ba5e1e9b94fed4ab22fe6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331325
+project-id = 237749

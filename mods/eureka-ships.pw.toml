@@ -1,0 +1,13 @@
+name = "Eureka! Airships! (Forge/Fabric)"
+filename = "eureka-1.1.0-beta.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "800d646bc226c965fd592e8e34b8ccab7c058b8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367155
+project-id = 654384

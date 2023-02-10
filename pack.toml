@@ -1,0 +1,12 @@
+name = "Sundial"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cea3bbfabff97f0d899af6f87c6c510fa947ec83a7797b6c87034d36a9b40318"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"

@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-1.1.4-patch4+1.18.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2703c2f4f439282d54a64ebe5c2fb7fc44504477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3968055
+project-id = 496913

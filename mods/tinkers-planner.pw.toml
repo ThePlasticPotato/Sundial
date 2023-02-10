@@ -1,0 +1,13 @@
+name = "Tinker's Planner"
+filename = "tconplanner-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33205a348854308b5d015b512ae5a7c5e7075317"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4287330
+project-id = 519973
