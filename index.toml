@@ -106,6 +106,11 @@ hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "4afe5c7ef3552063b131e06f6728d798b3ca19fc20ee0d2f567922a4621748d5"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "48b2b63982ac6146e96a91c3830461d90ccda9bfe8e3769346de2fbdc747fc7c"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "ccf73f9c08588a0b3616a78d1330949db157d0fa6a20e707651760c30c6e5d01"
+metafile = true
+
+[[files]]
+file = "mods/extra-keybinds.pw.toml"
+hash = "6150d16e9f241c4dc3ecdf035884b36c3c44fcb40c1341bcd6c6b3e71664dc4b"
 metafile = true
 
 [[files]]
