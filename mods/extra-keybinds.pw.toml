@@ -1,0 +1,13 @@
+name = "Extra Keybinds"
+filename = "Extra-Keybinds-1.18-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb566983576366c9db984a363230060678a9904c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3779371
+project-id = 537099
