@@ -156,6 +156,11 @@ hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "b004d1b469a550d0b3a8c77010cf47f7cc2d93dc1847dc87e67eab55b6172a9a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "b9da7de57a2ac4834bf43c47dc35f060034f6675d2b04d09ed4b86bf99b3c278"
 metafile = true
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "cdae94ad67d2b02044cf09344656f8af52d8084882fc402a7eaf627baba30838"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
 metafile = true
 
 [[files]]
