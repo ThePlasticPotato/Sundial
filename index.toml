@@ -5,6 +5,70 @@ file = "README.md"
 hash = "c09c1c6a47f10a50ea23ace5195391f989848f537e3985e55e3996620f8b1bfd"
 
 [[files]]
+file = "config/valkyrienskies/schemas/vc_client.schema.json"
+hash = "1401463b94a0af5d1b62b6729690f96d6c5e01f6190830240124f8874812a90c"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vc_server.schema.json"
+hash = "e802f071e29330ae387e42c08a2f20d579d32fd3282b18cc543d5b678234514e"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_client.schema.json"
+hash = "82516331426143de8ee9383e5e0adfba8a61d2e4cd0ad49a3e4d28d07534d3ac"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_common.schema.json"
+hash = "f5ba425afee7c543f9e010c34c451817bb9c745ffd45106fac5544e9eacadf96"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
+hash = "78b70baa33258a17f910fb4ccde272f981aa1316a228bf55053115ca35b99f23"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
+hash = "1401463b94a0af5d1b62b6729690f96d6c5e01f6190830240124f8874812a90c"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
+hash = "6cf663979a9608ff3f36ef50b84bfadea7353d27c9785d064cc55380e3ca7dc7"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_server.schema.json"
+hash = "f0d3177ed29666a7ca9a183ce93a4303db8a07528b4384cab25329454036d1e4"
+
+[[files]]
+file = "config/valkyrienskies/vc_client.json"
+hash = "d774a93c933e45a61ba98e4dbe732371f29a01987c13fc81081cefc25450a6c6"
+
+[[files]]
+file = "config/valkyrienskies/vc_server.json"
+hash = "558af07a36065295eacf888b94e3097a020902f3682a4c2b6f726a210ed86d97"
+
+[[files]]
+file = "config/valkyrienskies/vs_client.json"
+hash = "1ff5652a366d97c3cecfa4db8a9ee69a682a26f87cf45b89e3be7666c85e394d"
+
+[[files]]
+file = "config/valkyrienskies/vs_common.json"
+hash = "b79fd15ca7286dcfa731ca333f6cffe160a46225e41479cc968dd5d8e24df3a8"
+
+[[files]]
+file = "config/valkyrienskies/vs_core_server.json"
+hash = "04b7ed1ddf88d10e37a47f682e21b592f45161a5d7e7ef06050d4feb23010697"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_client.json"
+hash = "8555234cb06a79bcea18b5258658c44be0caa24c3ed56248ab0d5cdb69777705"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "a9834b0cbbd6a86936c4e42a6e4792ceca3fcbd503fae783cd24614bdf04cda5"
+
+[[files]]
+file = "config/valkyrienskies/vs_server.json"
+hash = "b079270f7ac67fdf3b305f85bf899cbaecdc06e49021c3bf83b683c57092299c"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "e67de2fcb1491bbe90bd7d8f502725076f00b6f13d1efd8d2ebc2332f6200405"
 metafile = true
