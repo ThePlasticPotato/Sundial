@@ -40,6 +40,31 @@ hash = "a50a33ef816833d7540461b89161751bccf1fdbdc9ab0bbf9d07942621a26267"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "db47277fd3569c527bb662f386318bf2b252fa6f47dddc5e9fc13995627c1481"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "b9233d625d74873d930323b9311ba89e05fa1b2c6abb7f88890ef6095b3ac321"
+metafile = true
+
+[[files]]
+file = "mods/ars-instrumentum.pw.toml"
+hash = "8ae19c7c1e5f05e25e12d75839ba31bad43c85e04ae01d4ea01d01fcb7828d05"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "a32514dcd3c2c1d7e78967652ccc26cd2d84a7be6ebd6ad553ce2fe8e7538ea8"
+metafile = true
+
+[[files]]
+file = "mods/ars-omega.pw.toml"
+hash = "40f6974a592845b6294aec402b4e4ac9abf6d2fda0f1b5d426797fa9ea25983e"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "f79243f3241bb965b2312fba4278feb6c3817affb5fc4f0574482b8253acdb39"
 metafile = true
@@ -497,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/tis-3d.pw.toml"
 hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "fa13f21dd9ee1351610d4fd9077f449fba8bc18e8b2ad5c8827af8793def61f5"
 metafile = true
 
 [[files]]
