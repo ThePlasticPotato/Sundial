@@ -16,13 +16,13 @@ onEvent('recipes', event => {
 	event.remove({id:'tconstruct:gadgets/throwball/efln_ball'})
 	
 	
-	/* WIP
-	let interBasicBullet = 'minecraft:iron_ingot'
+	/*//WIP
+	let interBasicBullet = 'kubejs:incomplete_basic_bullet'
 	event.recipes.createSequencedAssembly([
 	Item.of('6x cgm:basic_bullet')
 	],'create:brass_sheet',[
-	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,'minecraft:gunpowder']),
-	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,'minecraft:iron_nugget']),
+	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,Item.of('6x cgm:basic_bullet')]),
+	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,'6x minecraft:iron_nugget']),
 	event.recipes.createPressing(interBasicBullet, interBasicBullet)
 	]).transitionalItem(interBasicBullet).loops(1)
 	*/
