@@ -69,6 +69,14 @@ file = "config/valkyrienskies/vs_server.json"
 hash = "b079270f7ac67fdf3b305f85bf899cbaecdc06e49021c3bf83b683c57092299c"
 
 [[files]]
+file = "kubejs/client_scripts/sundial-client.js"
+hash = "9e205cf76f89f9ad299c953d94874b4a5493a39f612271f701cfb8d7067d4626"
+
+[[files]]
+file = "kubejs/sever_scripts/sundial-server.js"
+hash = "24f56766b53d85700c9a5b59de12bdcc7fa5580a39d605113fbe329ac9a48233"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "e67de2fcb1491bbe90bd7d8f502725076f00b6f13d1efd8d2ebc2332f6200405"
 metafile = true
@@ -176,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "3f1897a6b66a96097ae508234437d41c2690f874c3e2dc6075e6ec59143210e8"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
@@ -511,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b34952ddd6841882e2ece139e1b2c7ce9573e866b914e3c52917f3caf0d2f450"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7863c6ff5c8ee607d67b7f8065904f99a81903f983adc7dca35184e760358993"
 metafile = true
 
 [[files]]

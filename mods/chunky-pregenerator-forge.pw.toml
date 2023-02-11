@@ -1,0 +1,13 @@
+name = "Chunky (Forge)"
+filename = "Chunky-1.2.164.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b5b160f9378af5218bf22c9ec61d623a65e4eae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3579662
+project-id = 485681
