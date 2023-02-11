@@ -1,0 +1,13 @@
+name = "Upgraded Core"
+filename = "upgradedcore-1.18.2-3.2.0.0-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e47c00b8b1b885244ff3b2da833491e8df9fd816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3696813
+project-id = 566700

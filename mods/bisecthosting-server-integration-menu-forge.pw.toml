@@ -1,0 +1,13 @@
+name = "BisectHosting Server Integration Menu [FORGE]"
+filename = "BH-Menu-1.18.2-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d765f68452950b741055adb06d9aba8ebf34ac0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3707420
+project-id = 585546

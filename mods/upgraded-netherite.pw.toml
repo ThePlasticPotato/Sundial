@@ -1,0 +1,13 @@
+name = "Upgraded Netherite"
+filename = "upgradednetherite-1.18.2-4.2.0.6-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b811c88e345ca1c404bf49d842c77af6e6172f58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3803298
+project-id = 400085
