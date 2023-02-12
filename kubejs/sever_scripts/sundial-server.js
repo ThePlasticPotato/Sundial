@@ -16,18 +16,39 @@ onEvent('recipes', event => {
 	event.remove({id:'tconstruct:gadgets/throwball/efln_ball'})
 	
 	
-	/*//WIP
+	//Crayfish ammunition Create recipes
 	let interBasicBullet = 'kubejs:incomplete_basic_bullet'
+	event.remove ({id:'cgm:basic_bullet'})
 	event.recipes.createSequencedAssembly([
-	Item.of('6x cgm:basic_bullet')
+	Item.of('16x cgm:basic_bullet')
 	],'create:brass_sheet',[
-	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,Item.of('6x cgm:basic_bullet')]),
-	event.recipes.createDeploying(interBasicBullet,[interBasicBullet,'6x minecraft:iron_nugget']),
+	event.recipes.createDeploying(interBasicBullet,[interBasicBullet, 'createbigcannons:packed_gunpowder']),
+	event.recipes.createDeploying(interBasicBullet,[interBasicBullet, 'minecraft:iron_nugget']),
 	event.recipes.createPressing(interBasicBullet, interBasicBullet)
 	]).transitionalItem(interBasicBullet).loops(1)
-	*/
+	
 
-
+	let interAdvancedBullet = 'kubejs:incomplete_advanced_bullet'
+	event.remove ({id:'cgm:advanced_bullet'})
+	event.recipes.createSequencedAssembly([
+	Item.of('16x cgm:advanced_bullet')
+	],'create:copper_sheet',[
+	event.recipes.createDeploying(interAdvancedBullet,[interAdvancedBullet, 'createbigcannons:packed_gunpowder']),
+	event.recipes.createDeploying(interAdvancedBullet,[interAdvancedBullet, 'create:andesite_alloy']),
+	event.recipes.createDeploying(interAdvancedBullet,[interAdvancedBullet, 'minecraft:iron_nugget']),
+	event.recipes.createPressing(interAdvancedBullet, interAdvancedBullet)
+	]).transitionalItem(interAdvancedBullet).loops(1)
+	
+	let interMissile = 'kubejs:incomplete_missile'
+	event.remove ({id:'cgm:missile'})
+	event.recipes.createSequencedAssembly([
+	Item.of('cgm:missile')
+	],'minecraft:bucket',[
+	event.recipes.createDeploying(interMissile,[interMissile, 'minecraft:tnt']),
+	event.recipes.createFilling(interMissile, [interMissile, Fluid.of('createaddition:bioethanol',250)]),
+	event.recipes.createDeploying(interMissile,[interMissile, 'minecraft:redstone']),
+	event.recipes.createPressing(interMissile, interMissile)
+	]).transitionalItem(interMissile).loops(1)
 
 
 
