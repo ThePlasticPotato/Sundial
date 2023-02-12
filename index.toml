@@ -74,7 +74,7 @@ hash = "9e205cf76f89f9ad299c953d94874b4a5493a39f612271f701cfb8d7067d4626"
 
 [[files]]
 file = "kubejs/sever_scripts/sundial-server.js"
-hash = "24f56766b53d85700c9a5b59de12bdcc7fa5580a39d605113fbe329ac9a48233"
+hash = "e49c6f5491e5462cd9424edd3b30f9d3203d3deefdec41044f8cba80fc6a4fed"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
