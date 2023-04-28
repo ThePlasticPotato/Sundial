@@ -38,7 +38,7 @@
 		// Should Discombobulate be enabled? (Restart Required)
 		"enableDiscombobulate": true,
 		// Should Solar Strike be enabled? (Restart Required)
-		"enableSolarStrike": true,
+		"enableSolarStrike": false,
 		// Should Arcane Barrier be enabled? (Restart Required)
 		"enableArcaneBarrier": true,
 		// The Mana costs for all the spells.

@@ -263,7 +263,7 @@
     "trapezoid": false
   },
   "configVersion": 8,
-  "disableFunny": false,
+  "disableFunny": true,
   "banglumNukeCoreRadius": 24,
   "blacklist": []
 }

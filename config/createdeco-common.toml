@@ -2,5 +2,5 @@
 #General Settings
 [general]
 	#allow coin recipe
-	can_press_coins = false
+	can_press_coins = true
 
