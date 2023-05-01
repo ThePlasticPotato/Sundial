@@ -349,10 +349,6 @@ file = "config/yungsbridges-fabric-1_18.toml"
 hash = "f88dca42a79b576d0a721a04636dd5daac9c5f659d67bc1ba4168862d8f646c1"
 
 [[files]]
-file = "datapacks/data.zip"
-hash = "28b4edd2cb4fd0d849ae014c4adff2b9d6f3eb82d42a236407604f02227f2a4d"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -421,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e0917e3b5febe243fef9f8353440137bfa3f5bddc3f383a4538160f00b1434b4"
+hash = "1cf4751c388f6739b9ecde4b398d5ca2b601c23c7e8a34efb2fdfc54b47f5fba"
 metafile = true
 
 [[files]]
@@ -516,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "eb442217f2e673bdc06b50a2fe213e9e5db4b6907868999b04ed8af83c44285e"
+hash = "1777d920b491f99eb9131934f96ae4fb60f07574452966f8759c57a45a788d5b"
 metafile = true
 
 [[files]]
@@ -816,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "3f206c68f31c37263761bb2332fdeb829500af5fdff9884b36a70c97cc3bd937"
+hash = "f29b5004e19fc95305168050a7fefb226955f2e9954d70daf911d1874633c8ab"
 metafile = true
 
 [[files]]
