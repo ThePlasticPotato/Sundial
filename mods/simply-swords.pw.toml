@@ -1,0 +1,13 @@
+name = "Simply Swords [Fabric & Forge]"
+filename = "simplyswords-fabric-1.40-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d0d72ef94c8f37d2170bebea1292d3d6897c296"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377998
+project-id = 659887

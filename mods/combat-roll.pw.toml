@@ -1,0 +1,13 @@
+name = "Combat Roll [Fabric & Forge]"
+filename = "combatroll-fabric-1.1.5+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d0889182b07be3c166c5407cd5a37e91a48190f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4428896
+project-id = 678036

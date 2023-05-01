@@ -1,0 +1,13 @@
+name = "Figura"
+filename = "figura-0.1.0-rc.14+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fff5611434d5d77d95f9e8ac61255b7d876a04c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4438651
+project-id = 451616

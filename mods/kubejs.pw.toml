@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-fabric-1802.5.5-build.569.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4837c669756fa119f866544bb52c9edf729973b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377176
+project-id = 238086

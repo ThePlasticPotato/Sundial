@@ -1,0 +1,13 @@
+name = "Speedometer"
+filename = "speedometer-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2552c9d930a6ffed0f06c0a4c4c958ca3a5ed1cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3739777
+project-id = 421782

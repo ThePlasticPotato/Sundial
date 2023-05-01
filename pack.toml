@@ -1,0 +1,13 @@
+name = "Sundial"
+author = "Clockworks"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b9894a431bd0f8d5031ddc8ff5a653d0e0587722c72ddd4b1d036ee3a5349817"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.18.2"

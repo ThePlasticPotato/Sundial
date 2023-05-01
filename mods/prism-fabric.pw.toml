@@ -1,0 +1,13 @@
+name = "Prism [Fabric]"
+filename = "Prism-1.18.2-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3a38b27d3b07e7771fe01ada743531d20762ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032511
+project-id = 665526

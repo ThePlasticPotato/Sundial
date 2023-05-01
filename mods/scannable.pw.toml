@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-1.18.2-fabric-1.7.7+67bcbed.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6f5df8ba88d1f680c9981556f6061d26d06b92a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781153
+project-id = 266784

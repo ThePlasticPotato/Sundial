@@ -1,0 +1,13 @@
+name = "Global Datapacks"
+filename = "Global-Datapack.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/1.1/Global-Datapack.jar"
+hash-format = "sha1"
+hash = "e6420aca2e51939c5540ec739faa1626230fbc59"
+
+[update]
+[update.modrinth]
+mod-id = "bRa9yz7E"
+version = "oNhDqWJq"

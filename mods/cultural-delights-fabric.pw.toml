@@ -1,0 +1,13 @@
+name = "Cultural Delights [Fabric]"
+filename = "cultural-delights-fabric-0.14.7+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00e4dd5a0ad50afd97545362a41f5fac42186a11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4329072
+project-id = 807107

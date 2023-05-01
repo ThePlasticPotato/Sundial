@@ -1,0 +1,13 @@
+name = "Droplight"
+filename = "Droplight-1.18.2-fabric-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b2b12e689bdbdf537922ea0dd8dfc1b99d20d3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4098495
+project-id = 665868

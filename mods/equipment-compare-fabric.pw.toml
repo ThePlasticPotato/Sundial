@@ -1,0 +1,13 @@
+name = "Equipment Compare [Fabric]"
+filename = "EquipmentCompare-1.18.2-fabric-1.2.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e3ea19e5799a13c360117d77145ce51ba3635e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3723542
+project-id = 541329

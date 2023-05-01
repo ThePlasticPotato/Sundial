@@ -1,0 +1,13 @@
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.2.4+fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dde99fa7ccf342c3e099b96ee31c679d70748879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4507907
+project-id = 688231

@@ -1,0 +1,13 @@
+name = "Chisel Refabricated"
+filename = "chisel-1.4.5+1.18.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4de5291a26ac7fb2e1d0bc3ef244dda371dfd8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3695148
+project-id = 551763

@@ -1,0 +1,13 @@
+name = "Cull Clouds"
+filename = "cullclouds-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ffdf27c0077b6522401f9cf956a1670903eac7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074085
+project-id = 696026
